@@ -151,14 +151,6 @@ Output (misol):
 ```text
 <class 'int'>
 ```
-Xo‘p, Diyorbek ✅
-Endi **21–30-vazifalar** input orqali qiymat kiritiladigan bo‘ladi.
-Shartlar:
-
-* `input()` ishlatamiz
-* Zarur joyda **type casting** (`int`, `float`) ishlatamiz
-* `pow`, `sqrt`, `random`, `randint`, `uniform` ham aralashadi
-* Output misoli beriladi
 
 **21.** Foydalanuvchidan son kiriting. `pow()` yordamida kvadratini hisoblang.
 Output:
